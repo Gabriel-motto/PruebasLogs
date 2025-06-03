@@ -13,6 +13,13 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "akamud.vscode-theme-onedark"
+      "msjsdiag.vscode-react-native"
+      "Tomi.xajssnippets"
+      "abusaidm.html-snippets"
+      "castrogusttavo.symbols"
+      "esbenp.prettier-vscode"
+      "ms-vscode.js-debug"
     ];
     workspace = {
       # Runs when a workspace is first created with this `dev.nix` file
